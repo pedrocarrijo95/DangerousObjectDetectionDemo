@@ -1,30 +1,5 @@
-# Hackathon Fase5 - Grupo41
 
-LINK VÍDEO DEMONSTRACÃO: https://youtu.be/Ja_uT-SCAp8
-
-## Como Rodar?
-Atualize a variável "receiver_email" para o seu email receber os alertas dos objetos perigosos !
-Atualize o path para o VideoCapture buscar o vídeo de teste para analise (https://drive.google.com/file/d/1GjJA5tb-jRh4OTBnm_nLqs2xuNKk6vdh/view?usp=sharing).
-Caso necessário podem alterar o hiperparâmetro de confidence !
-
-## INTEGRANTES DO GRUPO 41
-
-Pedro Henrique de Oliveira Carrijo
-
-pedro.car.rijo@hotmail.com
-
-Vinicius dos Santos Mendes
-
-trekpsn@gmail.com
-
-DIOGO MORALES MARTINS HALAS
-
-diogo.halas@gmail.com
-
-Diogo Paiva
-
-paiva.721@gmail.com
-
-Jefferson Vega Thurck Junior
-
-jeffersonthurck@gmail.com
+## How to run?
+Update the "send_alert" method variables to configure sending emails and receiving alerts for dangerous objects!
+Update the path to VideoCapture to search for the test video for analysis (https://drive.google.com/file/d/1GjJA5tb-jRh4OTBnm_nLqs2xuNKk6vdh/view?usp=sharing).
+If necessary, you can change the confidence hyperparameter!
